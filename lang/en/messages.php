@@ -1,0 +1,83 @@
+<?php
+
+return [
+    // Menu
+    'lbl_student' => 'Student',
+    'lbl_students' => 'Students',
+    'lbl_classes' => 'Classes',
+    'lbl_class' => 'Class',
+    'lbl_subjects' => 'Subjects',
+    'lbl_subject' => 'Subject',
+    'lbl_result_list' => 'Result List',
+    'lbl_student_list' => 'Student List',
+    'lbl_subject_list' => 'Subject List',
+    'lbl_subject_class_list' => 'Subject Class List',
+    'lbl_result' => 'Result',
+    'lbl_list' => 'List',
+    'lbl_profile' => 'Profile',
+    'lbl_core' => 'Core',
+    'lbl_dashboard' => 'Dashboard',
+    'lbl_interface' => 'Interface',
+    'lbl_home' => 'Home',
+
+    // Home
+	'lbl_students_mark_range' => 'Students Mark Range',
+	'lbl_students_score_pie_chart' => 'Students Score Pie Chart',
+    'lbl_students_subject_class_average' => 'Subject Class Average',
+	'lbl_total_no_of_students' => 'Total No of Students',
+	'lbl_fail' => 'Fail',
+	'lbl_pass' => 'Pass',
+	'lbl_school_progress_app' => "School Progress App",
+
+    // Common
+	'lbl_login' => 'Login',
+    'lbl_logout' => 'Logout',
+    'lbl_email_address' => 'E-Mail Address',
+    'lbl_password' => 'Password',
+    'lbl_name' => 'Name',
+    'lbl_register' => 'Register',
+    'lbl_update' => 'Update',
+    'lbl_back' => 'Back',
+    'lbl_edit' => 'Edit',
+    'lbl_cancel' => 'Cancel',
+    'lbl_confirm_password' => 'Confirm Password',
+    'lbl_forgot_password' => 'Forgot Password',
+    'lbl_reset_password' => 'Reset Password',
+    'lbl_sno' => 'S.No',
+    'lbl_action' => 'Action',
+    'lbl_creation_date' => 'Creation Date',
+    'lbl_updated_date' => 'Updated Date',
+    'lbl_status' => 'Status',
+    'lbl_email' => 'Email',
+    'lbl_use' => 'Use',
+    'lbl_not_use' => 'Not Use',
+    'lbl_teacher' => 'Teacher',
+    'lbl_underconstruction' => 'Under construction',
+
+    // Class
+    'lbl_class_list' => 'Class List',
+    'lbl_class_register' => 'Class Register',
+    'lbl_class_name' => 'Class Name',
+    'lbl_numeric' => 'Numeric',
+    'lbl_class_in_numeric' => 'Class in Numeric',
+    'lbl_section' => 'Section',
+    'lbl_dob' => 'DOB',
+    'lbl_male' => 'Male',
+    'lbl_female' => 'Female',
+    'lbl_others' => 'Others',
+    'lbl_class_register' => 'Class Register',
+    'lbl_class_register' => 'Class Update',
+
+    // Subject
+    'lbl_subject_name' => 'Subject Name',
+    'lbl_subject_code' => 'Subject Code',
+
+    //Students
+    'lbl_student_view' => 'Student View',
+    'lbl_student_register' => 'Student Register',
+    'lbl_student_update' => 'Student Update',
+    'lbl_name' => 'Name',
+    'lbl_student_name' => 'Student Name',
+    'lbl_roll_no' => 'Roll No',
+    'lbl_gender' => 'Gender',
+];
